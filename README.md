@@ -12,6 +12,10 @@ Based in Mérida, Yucatán, Mexico.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
+### Tools & Visualization
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 ### Infrastructure & DevOps
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
