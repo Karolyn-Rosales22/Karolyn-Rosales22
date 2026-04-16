@@ -39,4 +39,4 @@ To contribute to the development of data systems that are not only technically e
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karolyn-Rosales22&show_icons=true&theme=tokyonight)
