@@ -35,7 +35,7 @@ To contribute to the development of data systems that are not only technically e
 ## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/karolyn-p%C3%A9rez-rosales-954b61216/
-- GitHub: https://github.com/TUUSUARIO
+- GitHub: https://github.com/Karolyn-Rosales22
 
 ## GitHub Stats
 
